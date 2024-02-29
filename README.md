@@ -35,13 +35,13 @@ Hangman is a classic word guessing game where one player thinks of a word and th
 git clone https://github.com/your-username/hangman-game.git
 ```
 2. Navigate to the project directory:
-
+```bash
 cd hangman-game
-
+```
 3. Run the Python script:
-
+```bash
 python hangman.py
-
+```
 ## Contribution
 Contributions are welcome! If you'd like to contribute to this project, please create a pull request with your proposed changes.
 
